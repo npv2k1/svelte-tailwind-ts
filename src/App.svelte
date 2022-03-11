@@ -3,7 +3,7 @@
   import Counter from './lib/Counter.svelte'
 </script>
 
-<main>
+<main class='bg-red-500'>
   <img src={logo} alt="Svelte Logo" />
   <h1>Hello Typescript!</h1>
 
